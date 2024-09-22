@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c0e5f20-3c96-4be5-a315-a609cc635f07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/src/main/java/com/movies/controller/Screen1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/src/main/java/com/movies/controller/Screen2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/MovieConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/MovieServletInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/Booking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/DeleteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/MovieController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/Retrieve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/Screen1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/Screen2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/controller/seats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model/Accounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model/Movies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model/bank/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model1/Longin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model2/Feedbackandrating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model3/Organization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/model4/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/repositary/MovieRepositary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/com/movies/service/MovieService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/classes/static/templates/NewFile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/m2e-wtp/web-resources/META-INF/maven/com.movie/Movie12/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaleshkhaddiOnlineBookingApplication/target/m2e-wtp/web-resources/META-INF/maven/com.movie/Movie12/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mHq8BjPqctU2MJIGQi5uhh2K2r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.Movie12 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0e5f20-3c96-4be5-a315-a609cc635f07" name="Changes" comment="" />
+      <created>1726743687650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726743687650</updated>
+    </task>
+    <servers />
+  </component>
+</project>
